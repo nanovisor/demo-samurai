@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "88a8d3afd8c7cf83f148db4a21e105d4",
+    "revision": "df3721ebea098c383116bb07fafedc7b",
     "url": "/demo-samurai/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo-samurai/static/css/4.4284b633.chunk.css"
   },
   {
-    "revision": "81196f7c9e208b487c9f",
+    "revision": "bbf564d3629061bc29c9",
     "url": "/demo-samurai/static/css/main.582a55f2.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo-samurai/static/js/4.56b51f0b.chunk.js"
   },
   {
-    "revision": "81196f7c9e208b487c9f",
-    "url": "/demo-samurai/static/js/main.4fe361fb.chunk.js"
+    "revision": "bbf564d3629061bc29c9",
+    "url": "/demo-samurai/static/js/main.60338a5c.chunk.js"
   },
   {
     "revision": "3ba5dd09c4b34cba6447",
